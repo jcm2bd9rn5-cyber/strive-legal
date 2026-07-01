@@ -1,1 +1,66 @@
-<!-- Premium Legal Project README -->\n<div align=\"center\">\n\n# ⚖️ Strive Legal\n\n**Strive App - プライバシー＆ライセンス情報**\n\nStrive のための法的情報・ライセンス情報管理サイトです。\n\n[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://strive-legal.github.io)\n[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jcm2bd9rn5-cyber/strive-legal)\n\n</div>\n\n---\n\n## 📋 概要\n\nStrive アプリに関連する法的情報、プライバシーポリシー、利用規約、ライセンス情報を一元管理するウェブサイトです。\n\n---\n\n## 📑 主な内容\n\n| ドキュメント | 説明 |\n|-----------|------|\n| 📋 **利用規約** | Terms of Service - アプリの利用条件 |\n| 🔐 **プライバシーポリシー** | Privacy Policy - ユーザーデータの取り扱い |\n| 📜 **ライセンス情報** | License Info - 使用技術のライセンス |\n| ⚖️ **法的表記** | Legal Notice - 企業情報など |\n\n---\n\n## 🌐 Quick Links\n\n- **[📱 Strive App](https://apps.apple.com/)** - App Store で公開中\n- **[🎯 Strive LP](https://strive-lp-xi.vercel.app)** - ランディングページ\n- **[👨‍💻 Portfolio](https://github.com/jcm2bd9rn5-cyber)** - 開発者ポートフォリオ\n\n---\n\n## 💻 Tech Stack\n\n<div>\n\n![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)\n![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)\n![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)\n\n</div>\n\n---\n\n## 🚀 セットアップ\n\n```bash\n# クローン\ngit clone https://github.com/jcm2bd9rn5-cyber/strive-legal.git\ncd strive-legal\n\n# GitHub Pages で自動ホスト\n# https://jcm2bd9rn5-cyber.github.io/strive-legal\n```\n\n---\n\n## 📁 ファイル構成\n\n```\nstrive-legal/\n├── index.html\n├── privacy-policy.html\n├── terms-of-service.html\n├── license.html\n├── css/\n│   └── style.css\n└── README.md\n```\n\n---\n\n## 🔒 Compliance\n\n✅ GDPR対応  \n✅ CCPA対応  \n✅ App Store要件対応  \n✅ Google Play要件対応  \n\n---\n\n## 🤝 関連プロジェクト\n\n| Project | Description | Link |\n|---------|-------------|------|\n| **Strive App** | iOS筋トレ記録アプリ | [Private](https://github.com/jcm2bd9rn5-cyber/strive-ios) |\n| **Strive LP** | ランディングページ | [View](https://github.com/jcm2bd9rn5-cyber/strive-lp) |\n| **Portfolio** | 開発者ポートフォリオ | [View](https://github.com/jcm2bd9rn5-cyber) |\n\n---\n\n## 📝 ライセンス\n\nMIT License © 2026 Shogo Taguchi\n\n---\n\n## 📞 Contact\n\n- 📧 Email: jcm2bd9rn5@privaterelay.appleid.com\n- 🌐 Website: [strive-lp-xi.vercel.app](https://strive-lp-xi.vercel.app)\n- 👨‍💻 GitHub: [@jcm2bd9rn5-cyber](https://github.com/jcm2bd9rn5-cyber)\n\n---\n\n<div align=\"center\">\n\n**Made with ❤️ by Shogo Taguchi**\n\n</div>\n"
+<!-- Premium Legal Project README -->
+
+<div align="center">
+
+# Strive Legal
+
+**Privacy Policy / Terms of Service for Strive**
+
+筋トレ記録アプリ「Strive」のプライバシーポリシー、利用規約、ライセンス情報を管理するためのリポジトリです。
+
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://jcm2bd9rn5-cyber.github.io/strive-legal)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jcm2bd9rn5-cyber/strive-legal)
+
+</div>
+
+---
+
+## Overview
+
+このリポジトリでは、Strive アプリに関連する法的情報を管理しています。
+
+主に、App Store 公開に必要な以下のページを提供します。
+
+- Privacy Policy
+- Terms of Service
+- License Information
+- Legal Notice
+
+---
+
+## Documents
+
+| Document | Description |
+|---|---|
+| Privacy Policy | ユーザーデータの取り扱い方針 |
+| Terms of Service | アプリの利用条件 |
+| License Information | 使用技術・ライブラリのライセンス情報 |
+| Legal Notice | 法的表記・連絡先情報 |
+
+---
+
+## Quick Links
+
+| Link | URL |
+|---|---|
+| Strive LP | https://strive-lp-xi.vercel.app |
+| Developer Profile | https://github.com/jcm2bd9rn5-cyber |
+| Repository | https://github.com/jcm2bd9rn5-cyber/strive-legal |
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Setup
+
+```bash
+git clone https://github.com/jcm2bd9rn5-cyber/strive-legal.git
+cd strive-legal
