@@ -1,66 +1,24 @@
-<!-- Premium Legal Project README -->
+# Strive — Legal & Account Support
 
-<div align="center">
+Striveのプライバシーポリシー、利用規約、アカウント削除の案内を管理するリポジトリです。
 
-# Strive Legal
+[Strive公式サイト](https://strive-lp-xi.vercel.app/) · [開発者](https://github.com/jcm2bd9rn5-cyber)
 
-**Privacy Policy / Terms of Service for Strive**
+## 公開ページ
 
-筋トレ記録アプリ「Strive」のプライバシーポリシー、利用規約、ライセンス情報を管理するためのリポジトリです。
+| ページ | ソース | 公開先 |
+| --- | --- | --- |
+| プライバシーポリシー | [index.html](index.html) | [開く](https://jcm2bd9rn5-cyber.github.io/strive-legal/) |
+| 利用規約 | [terms.html](terms.html) | [開く](https://jcm2bd9rn5-cyber.github.io/strive-legal/terms.html) |
+| アカウント削除 | [account-deletion.html](account-deletion.html) | [開く](https://jcm2bd9rn5-cyber.github.io/strive-legal/account-deletion.html) |
 
-[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://jcm2bd9rn5-cyber.github.io/strive-legal)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jcm2bd9rn5-cyber/strive-legal)
+## ローカル表示
 
-</div>
-
----
-
-## Overview
-
-このリポジトリでは、Strive アプリに関連する法的情報を管理しています。
-
-主に、App Store 公開に必要な以下のページを提供します。
-
-- Privacy Policy
-- Terms of Service
-- License Information
-- Legal Notice
-
----
-
-## Documents
-
-| Document | Description |
-|---|---|
-| Privacy Policy | ユーザーデータの取り扱い方針 |
-| Terms of Service | アプリの利用条件 |
-| License Information | 使用技術・ライブラリのライセンス情報 |
-| Legal Notice | 法的表記・連絡先情報 |
-
----
-
-## Quick Links
-
-| Link | URL |
-|---|---|
-| Strive LP | https://strive-lp-xi.vercel.app |
-| Developer Profile | https://github.com/jcm2bd9rn5-cyber |
-| Repository | https://github.com/jcm2bd9rn5-cyber/strive-legal |
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white" />
-</p>
-
----
-
-## Setup
-
-```bash
+```sh
 git clone https://github.com/jcm2bd9rn5-cyber/strive-legal.git
 cd strive-legal
+python3 -m http.server 4174
+```
+[http://localhost:4174/](http://localhost:4174/) を開きます。各ページは静的HTMLで、ビルドは不要です。
+
+編集時は[CONTRIBUTING.md](CONTRIBUTING.md)を参照してください。リポジトリのライセンスは[LICENSE](LICENSE)に記載されています。

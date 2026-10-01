@@ -16,19 +16,24 @@ Strive Legal プロジェクトへの貢献をありがとうございます。�
 
 ```markdown
 ## 説明
+
 [問題の詳しい説明]
 
 ## 再現手順
+
 1. ...
 2. ...
 
 ## 期待される動作
+
 [どのようになるべきか]
 
 ## 実際の動作
+
 [実際に起きていること]
 
 ## 環境
+
 - OS: 
 - ブラウザ: 
 ```
@@ -123,7 +128,7 @@ PR を提出する前に、以下を確認してください：
 
 ## 📞 質問やサポート
 
-- GitHub Discussions: [Strive Legal Discussions](https://github.com/jcm2bd9rn5-cyber/strive-legal/discussions)
+- GitHub Issues: [Strive Legal Issues](https://github.com/jcm2bd9rn5-cyber/strive-legal/issues)
 - メール: jcm2bd9rn5@privaterelay.appleid.com
 
 ---
